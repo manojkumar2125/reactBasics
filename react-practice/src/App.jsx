@@ -1,5 +1,6 @@
 
 import './App.css'
+import ColurCounter from './components/ColurCounter'
 import Counter from './components/Counter'
 import LoginForm from './components/LoginForm'
 import ShowHideText from './components/ShowHideText'
@@ -13,6 +14,7 @@ function App() {
     <ToggleButton />
     <ShowHideText/>
     <LoginForm/>
+    <ColurCounter/>
     </>
   )
 

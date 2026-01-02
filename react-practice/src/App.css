@@ -40,3 +40,25 @@
 .read-the-docs {
   color: #888;
 }
+
+.red{
+  color: red;
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+.blue{
+  color: blue;
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+.yellow{
+  color: yellow;
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
